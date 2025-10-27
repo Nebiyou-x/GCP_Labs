@@ -44,7 +44,7 @@ All instances should be under the **default network**.
 | Image Family | `debian-12` |
 | Image Project | `debian-cloud` |
 
-Use the following startup script (modify `<num>` to match each VM name):
+Use the following startup script :
 
 ```bash
 #!/bin/bash
